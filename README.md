@@ -30,7 +30,7 @@
 
 
 ### Cybersecurity Youtube Channels
-
+- [InfoSecTube](https://www.youtube.com/@InfoSecTube)
 - [13Cubed](https://www.youtube.com/user/davisrichardg)
 - [247CTF](https://youtube.com/channel/UCtGLeKomT06x3xZ2SZp2l9Q)
 - [Ankit Chauhan](https://www.youtube.com/channel/UCnSYKuocC7_EyBVTvhLT6vg) 
